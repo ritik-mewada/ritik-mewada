@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hi 👋 My name is Ritik.
 
-- 🔭 I’m currently working as full stack javascript developer ...
-- 🌱 I’m currently learning ui-ux designing ...
-- 📫 How to reach me: drop mail on ritikmewada@gmail.com
+## Web Developer
+
+I'm a Full Stack / MERN Stack Developer. I am a Tech Enthusiast, a Life long Learner & a Dreamer.
+
+ * :earth_africa: I'm based in Ahmedabad, India.
+ * :incoming_envelope:  You can contact me at ritikmewada@gmail.com
+ * 🧠 I'm learning web designing.
+              
+              
+            
 
