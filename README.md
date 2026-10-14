@@ -1,33 +1,34 @@
-### Hi 👋 My name is Ritik.
+### Hi, I'm Ritik 👋
 
-## Web Developer
+**Software engineer working in quality assurance.** I spent 4+ years building React, Next.js and Node.js products for marketplaces, analytics platforms and SaaS tools. Today I test IoT systems for safety monitoring in underground mines as a QA Engineer at [Maestro Digital Mine](https://maestrodigitalmine.com).
 
-I'm a Full Stack / MERN Stack Developer. I am a Tech Enthusiast, a Life long Learner & a Dreamer.
+I like work that sits between the two worlds: developer-minded testing, test-minded development.
 
- * :earth_africa: I'm based in Ahmedabad, India.
- * :incoming_envelope:  You can contact me at ritikmewada@gmail.com
- * :globe_with_meridians: Portfolio: [ritik-mewada.github.io](https://ritik-mewada.github.io)
- * 🧠 I'm learning web designing.
-              
-              
- ### 🛠 &nbsp;Languages and Tools :
+- 🌐 Portfolio: [ritik-mewada.github.io](https://ritik-mewada.github.io)
+- 💼 LinkedIn: [in/ritikmewada](https://www.linkedin.com/in/ritikmewada)
+- 📫 Email: ritikmewada@gmail.com
+- 📍 Ontario, Canada
 
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-</p>
+### 🧪 What I work with
 
+**Quality & testing:** Playwright · Cypress · Jest · React Testing Library · Postman · Jira · test case design<br>
+**IoT & networks:** hardware and sensor testing · Modbus · TCP/IP · MQTT · Wireshark<br>
+**Frontend:** TypeScript · React · Next.js · Redux · TanStack Query · Tailwind CSS<br>
+**Backend & data:** Node.js · Express · NestJS · Django REST · PostgreSQL · MongoDB · Redis<br>
+**DevOps:** Docker · Kubernetes · GitHub Actions · AWS · Azure
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=ritik-mewada&theme=dark&background=000000)](https://git.io/streak-stats)
+### 🚀 Selected projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-mewada&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+| Project | What it is |
+| --- | --- |
+| [MERNspace](https://ritik-mewada.github.io/projects/mernspace/) | Microservice food-ordering platform |
+| [Playwright Test Suite](https://github.com/ritik-mewada/playwright_task) | End-to-end and API test automation framework |
+| [StyleCast ERP](https://github.com/ritik-mewada/stylecast_erp) | Multi-tenant brand admin API |
+| [Pricify](https://github.com/ritik-mewada/Pricify) | Embeddable pricing-card SaaS |
+| [Portfolio](https://github.com/ritik-mewada/ritik-mewada.github.io) | Next.js site, tested with Playwright, axe and Lighthouse in CI |
 
----
+More case studies on [my portfolio](https://ritik-mewada.github.io/#projects).
+
+### 📊 Stats
+
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-mewada&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
